@@ -18,6 +18,8 @@ close the master to branch : To clone this in local and make sure the repo name 
   
   raise an  pull request from branch and this will be received to the master for merge/commit or rebase/commit
   
+  branch pull request will be changed from open to  merged
+  
   git branch-a to msee the available local and remote branches
   
   
