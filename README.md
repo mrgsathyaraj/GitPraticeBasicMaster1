@@ -10,4 +10,6 @@ Command : git init, git add . git status git commit -m "message" git remote add 
   git push origin my_new_branch
   git checkout branchName
   
+close the master to branch :
+  git clone -b GitPraticeBasicBranch3 https://github.com/mrgsathyaraj/GitPraticeBasicMaster1.git
 
