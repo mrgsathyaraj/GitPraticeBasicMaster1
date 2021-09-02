@@ -11,8 +11,14 @@ Command : git init, git add . git status git commit -m "message" git remote add 
   git checkout branchName (switch the branch)
   
 close the master to branch : To clone this in local and make sure the repo name not in the local
+  
   git clone -b GitPraticeBasicBranch3 https://github.com/mrgsathyaraj/GitPraticeBasicMaster1.git
+  
   git push origin branchname
   
+  raise an  pull request from branch and this will be received to the master for merge/commit or rebase/commit
+  
   git branch-a to msee the available local and remote branches
+  
+  
 
