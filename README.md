@@ -5,4 +5,9 @@ Create repo in github
 and Link both with remote git
 
 Command : git init, git add . git status git commit -m "message" git remote add origin <gir url> , git push -u origin master
+  
+  git branch new branch 
+  git push origin my_new_branch
+  git checkout branchName
+  
 
