@@ -1,5 +1,5 @@
 # GitPraticeBasicMaster1
-
+.
 Git init to initiate the git command in local repo
 Create repo in github
 and Link both with remote git
